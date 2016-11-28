@@ -5,9 +5,10 @@ body {
 }
 
 nav {
-    width: 100%;
     position: absolute;
     bottom: 0;
+    left: 0;
+    right: 0;
 }
 
 a.road {
@@ -18,8 +19,8 @@ a.road {
     padding: 0;
     color: #fff;
     background-color: #fff;
-    -webkit-mask: url(images/Anfart.svg) no-repeat 0 0;
-    mask: url(images/Anfart.svg) no-repeat 0 0;
+    -webkit-mask: url(images/Anfart.svg) no-repeat center;
+    mask: url(images/Anfart.svg) no-repeat center;
     width: 24%;
     min-height: 80px;
     text-indent: -9999px;
