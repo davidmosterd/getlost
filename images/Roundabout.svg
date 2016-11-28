@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="75px" height="75px" viewBox="0 0 75 75" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.4 (17249) - http://www.bohemiancoding.com/sketch -->
+    <title>Roundabout</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Roundabout" sketch:type="MSLayerGroup" transform="translate(1.000000, 1.000000)">
+            <path d="M22,37.25 C22,36.026 22.151,34.819 22.44,33.645 L24.488,34.357 L22.707,25.054 L15.539,31.247 L17.707,32 C17.244,33.706 17,35.465 17,37.25 C17,46.484 23.256,54.472 32.214,56.673 L33.407,51.818 C26.69,50.167 22,44.177 22,37.25 L22,37.25 L22,37.25 Z" id="Shape" fill="#000000" sketch:type="MSShapeGroup"></path>
+            <path d="M51.542,33.557 C51.846,34.757 52,36 52,37.25 C52,43.38 48.348,48.777 42.785,51.09 L42.138,49.021 L35.723,55.99 L44.965,58.063 L44.281,55.875 C51.94,52.894 57,45.58 57,37.25 C57,35.586 56.795,33.931 56.39,32.33 L51.542,33.557 L51.542,33.557 L51.542,33.557 Z" id="Shape" fill="#000000" sketch:type="MSShapeGroup"></path>
+            <path d="M37,22.25 C40.262,22.25 43.406,23.304 45.99,25.242 L44.533,26.853 L53.794,28.845 L50.89,19.829 L49.346,21.535 C45.832,18.771 41.504,17.25 37,17.25 C32.18,17.25 27.522,18.989 23.888,22.147 L27.167,25.921 C29.893,23.554 33.385,22.25 37,22.25 L37,22.25 L37,22.25 Z" id="Shape" fill="#000000" sketch:type="MSShapeGroup"></path>
+            <g id="button" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup" opacity="0.8">
+                <circle cx="36.5" cy="36.5" r="36.5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
